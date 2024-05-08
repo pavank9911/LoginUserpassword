@@ -1,8 +1,0 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image: url('D:\work_space\django_prjs\Project1\static\assets\images\Wallpaper.jpg'); /* Set the path to your background image */
-    background-size: cover; /* Cover the entire background */
-    background-repeat: no-repeat; /* Prevent the background image from repeating */
-}
